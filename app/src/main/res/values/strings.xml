@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PJMapp</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="sync_header">Powiadomienia</string>
+    <string name="user_header">Pamiętaj użytkownika</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Powiadomienia o postępach</string>
+    <string name="attachment_title">Codzienne przypomnienia</string>
+    <string name="user_title">Pamiętaj zalogowanego użykownika</string>
+
+    <string name="channel_name">channel1</string>
+    <string name="channel_description">Powiadomienie o postępach</string>
+
+    <!-- Activity Classify Hand -->
+    <string name="info">Pamiętaj aby umieścić całą dłoń w kamerze. System działa na razie wyłącznie dla prawej ręki - ciągle jednak jest ulepszany. Kiedy będziesz gotowy/a naciśnij SPRAWDŹ. Miłej zabawy!</string>
+    <string name="info2">Naciśnij ROZPOCZNIJ aby pokazać znak</string>
+
+    <!-- Activity Lessons List -->
+    <string name="lvl">Wybierz poziom: </string>
+
+    <!-- Activity Progress -->
+    <string name="t">Zaliczone Testy </string>
+    <string name="q">Wyniki Quizów </string>
+    <string name="o">Twoje Osiągnięcia</string>
+
+
+</resources>

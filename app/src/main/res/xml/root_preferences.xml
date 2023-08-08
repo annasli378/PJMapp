@@ -1,0 +1,29 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <PreferenceCategory
+        android:background="#3F7541"
+        app:title="@string/sync_header">
+
+      <!--  <SwitchPreferenceCompat
+            android:id="@+id/sw_postepy"
+            app:key="sync1"
+            app:title="@string/sync_title" />-->
+
+        <SwitchPreferenceCompat
+            android:id="@+id/sw_dzienne"
+            app:key="sync2"
+            app:title="@string/attachment_title" />
+
+    </PreferenceCategory>
+
+<!--    <PreferenceCategory app:title="@string/user_header">
+        <SwitchPreferenceCompat
+            app:key="sync"
+            app:title="@string/user_title" />
+
+
+    </PreferenceCategory>-->
+
+</PreferenceScreen>

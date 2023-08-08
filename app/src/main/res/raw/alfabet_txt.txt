@@ -1,0 +1,42 @@
+Alfabet palcowy w języku migowym składa się z 36 znaków odpowiadającym literom i głoskom używanym w języku polskim. Znajomość tych znaków jest niezbędna do nauki trudniejszych słów, literowania nazw własnych, imion i nazwisk.
+Znaki w alfabecie palcowym:
+
+A - prawa dłoń uniesiona na wysokości klatki piersiowej, wszystkie palce zgięte, 
+Ą - prawa dłoń w pozycji A, wykonuje w powietrzu kółko
+B - prawa dłoń uniesiona na wysokości klatki piersiowej, wszystkie palce wyprostowane, kciuk przywiedziony
+C - prawa dłoń na wysokości klatki piersiowej, palce wskazujący i kciuk częściowo zgięte nie dotykają się, pozostałe palce zgięte
+Ć - prawa dłoń w pozycji C, wykonuje krótki ruch w dół
+CH - prawa doń w pozycji C, dodatkowo częściowo zgięty palec środkowy, dłoń wykonuje krótki ruch w dół
+CZ - prawa doń w pozycji C, dodatkowo częściowo zgięty palec środkowy, dłoń wykonuje krótki ruch w przód
+D - prawa dłoń uniesiona na wysokości klatki piersiowej, palec wskazujący wyprostowany zakreśla w powietrzu kółko, pozostałe palce zgięte
+E - prawa dłoń uniesiona na wysokości klatki piersiowej, palce wyprostowane dotykają kciuka
+Ę - prawa dłoń w pozycji E, wykonuje w powietrzu kółko
+F - prawa dłoń uniesiona na wysokości klatki piersiowej, zgięty palec wskazujący zakrywa kciuk, pozostałe palce wyprostowane, dłoń wykonuje krótki ruch nadgarstkiem w dół
+G - prawa dłoń uniesiona na wysokości klatki piersiowej, palce wyprostowane, palec wskazujący pstryka o kciuk
+H - prawa dłoń uniesiona na wysokości klatki piersiowej, palce wskazujący i środkowy częściowo zgięte, dłoń wykonuje krótki ruch w dół
+I - prawa dłoń uniesiona na wysokości klatki piersiowej, skierowana wnętrzem do przodu, mały palec uniesiony pozostałe zgięte
+J - prawa dłoń w pozycji I, zakreśla w powietrzu literę J
+K - prawa dłoń uniesiona na wysokości klatki piersiowej, palce pokazują liczbę 3, dłoń wykonuje krótki ruch nadgarstkiem do przodu
+L - prawa dłoń uniesiona na wysokości klatki piersiowej, palec wskazujący wyprostowany, kciuk skierowany w bok, pozostałe palce zgięte
+Ł - prawa dłoń w pozycji L, wykonuje ruch w prawo
+M - prawa dłoń uniesiona na wysokości klatki piersiowej ułożona poziomo zewnętrzną częścią do przodu, palce wyprostowane, skierowane w lewo, kciuk skierowany w górę
+N - prawa dłoń jak w pozycji M, palec serdeczny i mały zgięte
+Ń - prawa dłoń jak w pozycji N, wykonuje krótki ruch w dół
+O - prawa dłoń uniesiona na wysokości klatki piersiowej, palce wyprostowane, kciuk i palec wskazujący stykają się
+Ó - prawa dłoń w pozycji O, wykonuje krótki ruch w dół
+P - prawa dłoń uniesiona na wysokości klatki piersiowej, palec wskazujący i kciuk stykają się, pozostałe zgięte
+R - prawa dłoń uniesiona na wysokości klatki piersiowej, palce wskazujący i środkowy skrzyżowane i skierowane w górę, pozostałe zgięte
+RZ - prawa ręka w pozycji R, wykonuje ruch w kształcie litery Z
+S - prawa ręka w pozycji O, palec wskazujący dotyka kciuka w połowie jego długości
+Ś - prawa ręka w pozycji S, wykonuje krótki ruch w dół
+SZ - prawa ręka w pozycji B, skierowana kantem do przodu, wykonuje ruch w lewo
+T - prawa dłoń uniesiona na wysokości klatki piersiowej, palce wyprostowane, palec wskazujący przychodzi zgięty za kciuk
+U - prawa dłoń uniesiona na wysokości klatki piersiowej, palce wskazujący i środkowy wyprostowane i skierowane do przodu i w dół, pozostałe zgięte
+W - prawa dłoń uniesiona na wysokości klatki piersiowej, palce wskazujący, środkowy i serdeczny wyprostowane, pozostałe zgięte
+Y - prawa dłoń uniesiona na wysokości klatki piersiowej, palce wskazujący i mały wyprostowane, pozostałe zgięte
+Z - prawa dłoń uniesiona na wysokości klatki piersiowej, palec wskazujący wyprostowany, zakreśla literę Z w powietrzu
+Ź - prawa ręka wykonuje znak Z, na koniec wykonuje krótki ruch w dół
+Ż - prawa ręka wykonuje znak Z, na koniec wykonuje okrężny ruch w górę
+
+Ćwiczenia: 
+Przeliteruj swoje imię i nazwisko. Przeliteruj nazwy 5 przedmiotów, które znajdują się obok Ciebie.
