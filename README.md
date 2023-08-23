@@ -28,8 +28,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Product Screen Shot](https://github.com/annasli378/PJMapp/blob/master/)
+<img src="https://github.com/annasli378/PJMapp/blob/main/app_home.jpeg" width="200" height="400" />
 
 ### Built With
 
@@ -56,8 +55,12 @@ To get a local copy clone the repo
    git clone https://github.com/czubamich/BloodDonorCompanionApp.git
    ```
 
+<!-- APP -->
+##  Inside
 
+<img src="https://github.com/annasli378/PJMapp/blob/main/app_test_uk.jpeg" width="400" height="400" />
 
+<img src="https://github.com/annasli378/PJMapp/blob/main/app_znak_pokazany.jpeg" width="200" height="400" />
 
 
 
