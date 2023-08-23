@@ -21,6 +21,9 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
+    <li>
+      <a href="#getting-started">How it work</a>
+    </li>
   </ol>
 </details>
 
@@ -56,11 +59,13 @@ To get a local copy clone the repo
    ```
 
 <!-- APP -->
-##  Inside
+##  How it work
 
+Test example:
 <img src="https://github.com/annasli378/PJMapp/blob/main/app_test_uk.jpeg" width="400" height="400" />
 
-<img src="https://github.com/annasli378/PJMapp/blob/main/app_znak_pokazany.jpeg" width="200" height="400" />
+Showing sign to camera:
+<img src="https://github.com/annasli378/PJMapp/blob/main/app_znak_pokazany.jpg" width="200" height="400" />
 
 
 
